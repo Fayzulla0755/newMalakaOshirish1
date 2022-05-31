@@ -118,9 +118,9 @@ li a:link{
     font-size: 40px;
     margin-left:20%;
 }
-.tarmoqlar.fa{
+/* .tarmoqlar.fa{
     
-}
+} */
 .tarmoqlar .fa:hover{
     font-size: 50px;
     transition: 0.5s;
